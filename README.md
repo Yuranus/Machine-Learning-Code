@@ -1,7 +1,7 @@
 # Machine-Learning-Code
 Some implementations from useful machine learning classes
 
-In this repo, I uploaded some use machine learning classes code implemented by myself from scratch.
+In this repo, I uploaded some useful machine learning classes code implemented by myself from scratch.
 Including:
 1. Andrew NG's coursea machine learning class;
 2. Andrew NG's openclassroom machine learning class;
